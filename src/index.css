@@ -1,0 +1,66 @@
+.sidebar {
+  margin: 0;
+  padding: 0;
+  width: 300px;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+  background-color:  #F5F5F5;
+}
+.notes{
+  padding: 30px;
+  color: #203562;
+}
+.active{
+  padding: 3px 20px 4px;
+  background-color: #203562;
+  border-radius: 5px;
+  margin-left: 20px;
+  margin-right: 20px;
+  color: #F5F5F5;
+  /* display: inline-flex; */
+  font-size: 20px;
+}
+.rect{
+  margin-top: 20px;
+  margin-left: 500px;
+  height: 300px;
+  width: 500px;
+}
+.img1{
+  position: absolute;
+  width: 1000px;
+height: 300px;
+flex-shrink: 0;
+border-radius: 16px;
+background: #F5F5F5;
+box-shadow: 2px 4px 16px 0px rgba(32, 53, 98, 0.47);
+margin-left: 330px;
+margin-top: 20px;
+}
+.box{
+  
+  padding: 15px;
+  color: #203562;
+}
+.form-control{
+  border: none !important;
+  background-color: #F5F5F5;
+  color: #203562;
+}
+.button{
+  margin-left: 20px;
+}
+.dash1{
+  margin-top: 40px;
+}
+.div2{
+  margin-top: 390px;
+  position: absolute;
+  margin-left: 320px;
+  margin-right:25px;
+}
+.logo{
+  float: right;
+
+}
